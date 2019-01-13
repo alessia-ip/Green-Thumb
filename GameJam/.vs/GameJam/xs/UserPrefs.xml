@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{35223D1A-0ABA-3E00-D682-2F913F0EB5DC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts 1/Pot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainMenuScreen.cs" Line="6" Column="28" />
+      <File FileName="Assets/Scripts 1/Pot.cs" Line="23" Column="5" />
+      <File FileName="Assets/UI/Bars/collision.cs" Line="9" Column="36" />
+      <File FileName="Assets/UI/Bars/waterMeterController.cs" Line="36" Column="50" />
+      <File FileName="Assets/UI/Bars/sunlightMeterController.cs" Line="38" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
